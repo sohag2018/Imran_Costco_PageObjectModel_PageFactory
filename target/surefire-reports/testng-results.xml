@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81474" started-at="2020-03-17T03:55:33Z" finished-at="2020-03-17T03:56:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81474" started-at="2020-03-17T03:55:33Z" finished-at="2020-03-17T03:56:55Z">
+      <class name="com.costco.qa.tests.ShopAllDeptPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.costco.qa.tests.ShopAllDeptPageTest@28d25987]" name="setUp" is-config="true" duration-ms="19740" started-at="2020-03-17T03:55:33Z" finished-at="2020-03-17T03:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyShopAllDeptPageTitle()[pri:0, instance:com.costco.qa.tests.ShopAllDeptPageTest@28d25987]" name="verifyShopAllDeptPageTitle" duration-ms="26296" started-at="2020-03-17T03:55:53Z" finished-at="2020-03-17T03:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShopAllDeptPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.costco.qa.tests.ShopAllDeptPageTest@28d25987]" name="tearDown" is-config="true" duration-ms="765" started-at="2020-03-17T03:56:19Z" finished-at="2020-03-17T03:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.costco.qa.tests.ShopAllDeptPageTest -->
+      <class name="com.costco.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="setUp" is-config="true" duration-ms="17275" started-at="2020-03-17T03:56:20Z" finished-at="2020-03-17T03:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="logoTest" duration-ms="133" started-at="2020-03-17T03:56:37Z" finished-at="2020-03-17T03:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="tearDown" is-config="true" duration-ms="776" started-at="2020-03-17T03:56:38Z" finished-at="2020-03-17T03:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="setUp" is-config="true" duration-ms="14911" started-at="2020-03-17T03:56:38Z" finished-at="2020-03-17T03:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchBoxTest()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="searchBoxTest" duration-ms="805" started-at="2020-03-17T03:56:53Z" finished-at="2020-03-17T03:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.costco.qa.tests.HomePageTest@4501b7af]" name="tearDown" is-config="true" duration-ms="739" started-at="2020-03-17T03:56:54Z" finished-at="2020-03-17T03:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.costco.qa.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

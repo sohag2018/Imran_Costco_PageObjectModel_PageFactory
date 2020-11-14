@@ -1,0 +1,8 @@
+com\costco\qa\pages\OpticalPage.class
+com\costco\qa\pages\BusinessDeliveryPage.class
+com\costco\qa\pages\GroceryPage.class
+com\costco\qa\pages\ShopAllDeptPage.class
+com\costco\qa\pages\PharmacyPage.class
+com\costco\qa\pages\FindWarehousesPage.class
+com\costco\qa\pages\HomePage.class
+com\costco\qa\base\BaseTest.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Allpages">
+  <test thread-count="5" name="Regression">
+    <classes>
+      <class name="com.costco.qa.tests.HomePageTest"/>
+      
+    </classes>
+  </test> <!-- Regression -->
+</suite> <!-- Allpages -->

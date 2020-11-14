@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.costco.qa.tests.ShopAllDeptPageTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verifyShopAllDeptPageTitle"/>
+          <include name="initialization"/>
+          <include name="titleTest"/>
+          <include name="setExtent"/>
+          <include name="extentReportProducer"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.costco.qa.tests.ShopAllDeptPageTest -->
+      <class name="com.costco.qa.tests.HomePageTest">
+        <methods>
+          <include name="logoTest"/>
+          <include name="endReport"/>
+          <include name="initialization"/>
+          <include name="tearDown"/>
+          <include name="titleTest"/>
+          <include name="searchBoxTest"/>
+          <include name="setExtent"/>
+          <include name="extentReportProducer"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.costco.qa.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

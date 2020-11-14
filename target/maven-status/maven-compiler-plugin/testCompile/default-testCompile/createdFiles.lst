@@ -1,0 +1,4 @@
+com\costco\qa\tests\HomePageTest.class
+com\costco\qa\tests\ExtentReporter.class
+com\costco\qa\tests\ShopAllDeptPageTest.class
+com\costco\qa\tests\FindWarehousesPageTest.class
